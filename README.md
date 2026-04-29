@@ -1,4 +1,5 @@
 # 5G Resource Allocation and QoS Prediction
+🔴 Live Demo: [Click here to try the 5G Resource Allocation App](https://5g-resource-allocation-qos-prediction.streamlit.app/)
 
 An end-to-end Machine Learning project designed to optimize dynamic resource allocation in 5G networks. The model predicts the optimal Resource Allocation Ratio based on real-time network conditions and specific application Quality of Service (QoS) requirements.
 
