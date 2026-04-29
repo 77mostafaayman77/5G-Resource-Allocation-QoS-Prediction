@@ -52,7 +52,7 @@ Key findings from the data:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/77mostafaayman77/5G-Resource-Allocation-QoS-Prediction.git](https://github.com/77mostafaayman77/5G-Resource-Allocation-QoS-Prediction.git)
+   git clone https://github.com/77mostafaayman77/5G-Resource-Allocation-QoS-Prediction.git
    cd 5G-Resource-Allocation-QoS-Prediction
    ```
 
